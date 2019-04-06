@@ -2,6 +2,7 @@
 var name = "Susan"
 var height = 31
 var message = ` is ${height} inches tall`
-var message = ` is${name}
+var message = ` ${name} is my name `
+
 
 module.exports = {name, height, message}
